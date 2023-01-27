@@ -5,6 +5,8 @@ I love making visually simple, easy to use applications. Check out my portfolio 
 - [Bean Scene Booking Web App](https://github.com/nehasagade/bean-scene-booking)
 - Bean Scene Ordering App (Link coming soon!)
 - [Neha's Notes](https://github.com/nehasagade/NehasNotes)
+## Videos
+- [Bean Scene Booking Web App Walkthrough](https://youtu.be/241r4socUlc)
 ## :mailbox: Contact Me
 - [Porfolio](https://nehasagade.github.io/)
 - [LinkedIn](https://www.linkedin.com/in/neha-s-0a4141174/)
